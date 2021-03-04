@@ -17,7 +17,7 @@
 
 
 <br>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/1899338-Yogocat-Animation/attachments/1899338-Yogocat-Animation?mode=media">
+<img align="right" alt="Coding" width="400" src="https://medium.com/hackernoon/how-to-optimize-your-github-profile-9540f338b2c9">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -59,18 +59,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gizemececetin&show_icons=true&locale=en" alt="pallab bag" /></p>
 
 
-
-<br>
-<details>
-  <summary>:fire: <b>GitHub Streak</b></summary>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bagpallab7&theme=dark&show-icons=true" alt="GitHub Streak" align="center" />
-</details>
-
-<details> 
-  
-  <summary>:abacus: <b>Best Repositories</b></summary>
-  
   <br/>
   <a href="https://github.com/BAGPALLAB7/Personal-assistant-in-python3.7" alt="personal-assistant" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin?username=bagpallab7&repo=Personal-assistant-in-python3.7&theme=dark&title_color=#11d43e&icon_color=f9f9f9&text_color=0a0a0a&bg_color=151515" alt="Personal-assistant-in-python3.7" align="center" /></a>
 	<a href="https://github.com/BAGPALLAB7/Notepad-using-Python" alt="Notepad" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin?username=bagpallab7&repo=Notepad-using-Python&theme=dark&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Notepad-using-Python" align="center" /></a>
