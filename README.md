@@ -17,7 +17,7 @@
 
 
 <br>
-<img align="right" alt="Coding" width="400" src="https://octodex.github.com/femalecodertocat/">
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/1899338-Yogocat-Animation/attachments/1899338-Yogocat-Animation?mode=media">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
