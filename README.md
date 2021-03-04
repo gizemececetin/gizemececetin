@@ -33,7 +33,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="flutter" width="65" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="flutter" width="75" height="40"/>
 &nbsp;	<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Dart-logo-wordmark.svg" alt="dart" width="60" height="50"/>
 	<br>
 
