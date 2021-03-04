@@ -17,7 +17,7 @@
 
 
 <br>
-<img align="right" alt="Coding" width="400" src="https://medium.com/hackernoon/how-to-optimize-your-github-profile-9540f338b2c9">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/6607041227d81f650340ff070cc2843518acad359b57e5bb054a9fb7127aa041/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323634363432332f73637265656e73686f74732f353530373139362f636f6d70757465722e676966">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,17 +32,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/flutter.svg" alt="flutter" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1200px-Windows_logo_-_2012.svg.png" alt="windows" width="40" height="40"/>
-<br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/>
 <img src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png" alt="java" width="40" height="40"/>
-
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Javascript_badge.svg/1200px-Javascript_badge.svg.png" alt="java-script" width="40" height="40"/>
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Javascript_badge.svg/1200px-Javascript_badge.svg.png" alt="java-script" width="40" height="40"/>
 <img src="https://cdn2.iconfinder.com/data/icons/programming-50/64/206_programming-sql-data-database-512.png" alt="sql" width="40" height="40"/>
-
-
 
 <br>
 
@@ -53,17 +48,10 @@
 
 <br><br>
 
-
-<p><img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gizemececetin&show_icons=true&locale=en&layout=compact" alt="pallab bag" /></p>
+<p><img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gizemececetin&show_icons=true&locale=en&layout=compact" alt="Gizem" /></p>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gizemececetin&show_icons=true&locale=en" alt="pallab bag" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gizemececetin&show_icons=true&locale=en" alt="Gizem" /></p>
 
-
-  <br/>
-  <a href="https://github.com/BAGPALLAB7/Personal-assistant-in-python3.7" alt="personal-assistant" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin?username=bagpallab7&repo=Personal-assistant-in-python3.7&theme=dark&title_color=#11d43e&icon_color=f9f9f9&text_color=0a0a0a&bg_color=151515" alt="Personal-assistant-in-python3.7" align="center" /></a>
-	<a href="https://github.com/BAGPALLAB7/Notepad-using-Python" alt="Notepad" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin?username=bagpallab7&repo=Notepad-using-Python&theme=dark&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Notepad-using-Python" align="center" /></a>
-  <br/>
-</details>
 
 <!--
 **gizemececetin/gizemececetin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
