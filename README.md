@@ -43,7 +43,7 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <br><br>
 
-<p><img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gizemececetin&show_icons=true&locale=en&layout=compact" alt="Gizem" /></p>
+<p><img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gizemececetin&langs_count=10&theme=cobalt&layout=compact" alt="Gizem" /></p>
 <br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gizemececetin&show_icons=true&theme=cobalt" alt="Gizem" /></p>
 
