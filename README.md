@@ -11,7 +11,7 @@
 :mortar_board: I finished Computer Engineering in Turkey.<br>
 :woman_dancing: I did 2 times erasmus.<br>
 :volleyball: Besides programming, you may find me doing sports or dancing.<br>
-<img  width="60" height="60" src="https://octodex.github.com/images/femalecodertocat.png"/>You can also check out my portfolio at <a href="https://gizemececetin.com">Gizem's Website</a>
+<img  width="60" height="60" src="https://octodex.github.com/images/droidtocat.png"/>You can also check out my portfolio at <a href="https://gizemececetin.com">Gizem's Website</a>
   <br>
   :email: How to reach me: <strong>gizem.ece.cetin@gmail.com</strong>
 </p>
@@ -20,8 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-	
-	
+		
 	
 	
   [<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" color="purple" alt="linkedin" height="30" width="40" />](https://linkedin.com/in/gizemececetin)
