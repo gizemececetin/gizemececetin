@@ -13,7 +13,7 @@
 :volleyball: Besides programming, you may find me doing sports or dancing.<br>
 	 :email: How to reach me: <strong>gizem.ece.cetin@gmail.com</strong> <br>
 <img width="70" height="70" src="https://octodex.github.com/images/femalecodertocat.png"/>
-	&nbsp;You can also check out my portfolio at <a href="https://gizemececetin.com">Gizem's Website</a>
+	You can also check out my portfolio at <a href="https://gizemececetin.com">Gizem's Website</a>
  
  
 </p>
@@ -40,7 +40,6 @@
 <img src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png" alt="java" width="40" height="40"/>
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Javascript_badge.svg/1200px-Javascript_badge.svg.png" alt="java-script" width="40" height="40"/>
 <img src="https://cdn2.iconfinder.com/data/icons/programming-50/64/206_programming-sql-data-database-512.png" alt="sql" width="40" height="40"/>
-
 
 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
