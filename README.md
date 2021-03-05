@@ -11,9 +11,10 @@
 :mortar_board: I finished Computer Engineering in Turkey.<br>
 :woman_dancing: I did 2 times erasmus.<br>
 :volleyball: Besides programming, you may find me doing sports or dancing.<br>
-<img  width="60" height="60" src="https://octodex.github.com/images/droidtocat.png"/>You can also check out my portfolio at <a href="https://gizemececetin.com">Gizem's Website</a>
-  <br>
-  :email: How to reach me: <strong>gizem.ece.cetin@gmail.com</strong>
+	 :email: How to reach me: <strong>gizem.ece.cetin@gmail.com</strong> <br>
+<img  width="70" height="70" src="https://octodex.github.com/images/daftpunktocat-guy.gif"/>You can also check out my portfolio at <a href="https://gizemececetin.com">Gizem's Website</a>
+ 
+ 
 </p>
 <br>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/6607041227d81f650340ff070cc2843518acad359b57e5bb054a9fb7127aa041/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323634363432332f73637265656e73686f74732f353530373139362f636f6d70757465722e676966">
@@ -21,7 +22,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 		
-	
 	
   [<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" color="purple" alt="linkedin" height="30" width="40" />](https://linkedin.com/in/gizemececetin)
  [<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" background-color="pink" alt="instagram" height="30" width="40" />](https://instagram.com/gizemececetin)
