@@ -12,7 +12,7 @@
 :woman_dancing: I did 2 times erasmus.<br>
 :volleyball: Besides programming, you may find me doing sports or dancing.<br>
 	 :email: How to reach me: <strong>gizem.ece.cetin@gmail.com</strong> <br>
-<img width="40" height="40" src="https://octodex.github.com/images/femalecodertocat.png"/>
+<img width="30" height="20" src="https://octodex.github.com/images/femalecodertocat.png"/>
 	You can also check out my portfolio at <a href="https://gizemececetin.com">Gizem's Website</a>
   
 </p>
