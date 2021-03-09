@@ -9,7 +9,7 @@
 :smile_cat: <strong>Happy</strong> to see you in my profile.<br>
 :computer: I am currently working with Flutter.<br>
 :mortar_board: I finished Computer Engineering in Turkey.<br>
-:woman_dancing: I did 2 times erasmus.<br>
+:woman_dancing: I did 2 times erasmus. I love travelling and different cultures.<br>
 :volleyball: Besides programming, you may find me doing sports or dancing.<br>
 	 :email: How to reach me: <strong>gizem.ece.cetin@gmail.com</strong> <br>
 <img width="30" height="30" src="https://octodex.github.com/images/femalecodertocat.png"/>
