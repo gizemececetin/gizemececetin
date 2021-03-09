@@ -34,11 +34,11 @@
 	<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Dart-logo-wordmark.svg" alt="dart" width="70" height="60"/>
 	<br>
 &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1200px-Windows_logo_-_2012.svg.png" alt="windows" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Android_logo_2019.svg" alt="android" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/>
 <img src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png" alt="java" width="40" height="40"/>
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Javascript_badge.svg/1200px-Javascript_badge.svg.png" alt="java-script" width="40" height="40"/>
-<img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" alt="sql" width="40" height="40"/>
+<img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" alt="mysql" width="40" height="40"/>
 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <br><br>
